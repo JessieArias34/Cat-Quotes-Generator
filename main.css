@@ -1,0 +1,35 @@
+body {
+	color:#000;
+}
+.btn {
+	background-color:rgb(224, 140, 189);
+	border-color:rgb(12, 12, 12);
+}
+.btn:hover {
+	background-color:rgb(126, 14, 89);
+	border-color:rgb(10, 10, 10);
+}
+.f-link {
+	text-decoration:none;
+	color:#000;
+}
+.f-link:hover {
+	text-decoration:none;
+	color:#3C48FF;
+}
+.quote-box {
+	background-color:#fff;
+	padding:1rem 3rem;
+	font-size:1.75rem;
+	line-height:2rem;
+	color:#292929;
+}
+.the-author {
+	font-size:1.25rem;
+	font-weight:bold;
+	float:right;
+}
+#Twitter-Logo {
+	margin-top:2rem;
+	max-width:50px;
+}
